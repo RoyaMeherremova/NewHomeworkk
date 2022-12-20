@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\bin\Debug\net6.0\Class-Work.exe
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\bin\Debug\net6.0\Class-Work.deps.json
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\bin\Debug\net6.0\Class-Work.runtimeconfig.json
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\bin\Debug\net6.0\Class-Work.dll
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\bin\Debug\net6.0\Class-Work.pdb
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.dll
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\refint\Class-Work.dll
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.pdb
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\Class-Work.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Papka 2\Class-Work\Class-Work\obj\Debug\net6.0\ref\Class-Work.dll
